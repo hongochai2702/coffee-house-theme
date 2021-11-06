@@ -1,6 +1,6 @@
 # Link youtube
 
-https://www.youtube.com/watch?v=TVFu4-Kd4oM
+https://youtu.be/TVFu4-Kd4oM?t=1285
 
 # Author
 
